@@ -18,11 +18,11 @@ menu:
       weight: 4
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/CSEClass25/"
-      params:
-        icon: github
+    #- name: GitHub
+    #  weight: 5
+    #  url: "https://github.com/CSEClass25/"
+    #  params:
+    #    icon: github
 
 params:
   theme:
